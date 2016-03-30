@@ -18,4 +18,12 @@ My dissertation work revolved around improved methods for modeling and subtracti
 
 ### Quasar Host Galaxy Morphologies at z=2 ###
 
+{% include icon-adsabs.html abs="2015arXiv151008461M" text="Mechtley et al. 2016 arXiv:1510.08461 (submitted to ApJ)" %}
+
+Details to follow
+
 ### Rest-Frame UV Properties of z=6 Quasar Host Galaxies ###
+
+{% include icon-adsabs.html abs="2012ApJ...756L..38M" text="Mechtley et al. 2012 ApJ 756 L38" %}
+
+Details to follow

@@ -1,1 +1,1 @@
-<a href="https://ui.adsabs.harvard.edu/#search/q={{ include.query | url_encode }}&sort=date%20desc"><span class="icon icon--adsabs">{% include icon-adsabs.svg %}</span><span class="username">{{ include.text }}</span></a>
+<a href="https://ui.adsabs.harvard.edu/{% if include.query %}#search/q={{ include.query | url_encode }}&sort=date%20desc{% else %}#abs/{{ include.abs | url_encode}}/abstract{% endif %}"><span class="icon icon--adsabs">{% include icon-adsabs.svg %}</span><span class="username">{{ include.text | prepend: " " }}</span></a>
