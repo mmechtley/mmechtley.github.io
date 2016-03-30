@@ -1,0 +1,12 @@
+---
+layout: post
+title: Sun Jars
+date: 2007-12-16 10:54:00 -0700
+categories: diy projects
+---
+
+I saw [an Instructable](http://www.instructables.com/id/Home-made-Sun-Jar/) for these neat LED-lighted jars some time ago - I thought it would be cool to make a couple to leave in my room. It's a very simple hack - you gut a solar garden lamp, replace the LED if desired, and then place the parts into the lid of a large-mouth jar. Then simply do something to diffuse the light emitted - I used a glass frosting paint but you could just as easily add in a sheet of tracing paper or the like. I ended up making four - they turned out very nice, and I gave two away at the Phoenix DIY Meeting. Full Flickr [photoset](http://www.flickr.com/photos/mmechtley/sets/72157603453391346/).
+
+{% include figure.html url="http://farm3.static.flickr.com/2034/2110859770_0ceb988354_m.jpg" caption="Really, there weren't many construction photos to take, but here's the garden lamp guts being epoxied to the jar lids." link="http://www.flickr.com/photos/mmechtley/2110859770/" class="image-packed" %}
+
+{% include figure.html url="http://farm3.static.flickr.com/2249/2110083185_d076f63417_m.jpg" caption="The energy of the sun, collected in jars!" link="http://www.flickr.com/photos/mmechtley/2110083185/" class="image-packed" %}

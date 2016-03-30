@@ -1,0 +1,16 @@
+---
+layout: post
+title: TV-B-Gone
+date: 2007-11-08 19:13:00 -0700
+categories: diy "operation mindfuck" 
+---
+
+After playing with one of these little fellows [last weekend]({% post_url 2007-11-08-operation-mindfuck-roundup %}) I resolved that I had to have one of my own - I can't stand TVs in restaurants in particular, or ones that do nothing but play ads in stores.  So I ordered up my own [kit](http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=20&amp;products_id=73) and assembled it per Limor's [instructions](http://www.ladyada.net/make/tvbgone/). A selection of the [photos](http://www.flickr.com/photos/mmechtley/sets/72157603002003150/):
+
+{% include figure.html url="http://farm3.static.flickr.com/2248/1914839455_96f868575f_m.jpg" caption="In development" link="http://www.flickr.com/photos/mmechtley/1914839455/" class="image-packed" %}
+
+{% include figure.html url="http://farm3.static.flickr.com/2393/1914843751_8d11aa810e_m.jpg" caption="A lovely infrared glow" link="http://www.flickr.com/photos/mmechtley/1914843751/" class="image-packed" %}
+
+{% include figure.html url="http://farm3.static.flickr.com/2266/1919873435_68ceb83672_m.jpg" caption="Completed TV-B-Gone" link="http://www.flickr.com/photos/mmechtley/1919873435/" class="image-packed" %}
+
+It had been about a year and a half since I'd had a chance to solder anything, which I realize now was far too long! Luckily, soldering seems to stick like bike riding - my joints were as clean and pretty as ever! Now just to test it out!

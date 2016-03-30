@@ -1,0 +1,18 @@
+---
+layout: post
+title: TIGJam 2008
+date: 2008-09-30 23:54:00 -0700
+categories: flashbang games projects unity
+---
+
+This last weekend saw a gathering of indie video game developers for the inaugural TIGJam, hosted by [TIGSource](http://tigsource.com) and us at [Flashbang Studios](http://blurst.com). 20 indie developers from all over the US and Canada came together for 72 hours of game-making with our comrades in arms!
+
+Armed with a bottle of guarana pills, the company of awesome friends, and the promise of a fabulous Indian dinner as culmination, I set out with my brother Adam to start a project from scratch and finish as much as possible. We decided on a game for the iPhone, made using the beta for [Unity](http://unity3d.com)'s iPhone version of their software. Our game is a 3D customizable robot brawler, in the spirit of the fantastic Sega Genesis game [Cyborg Justice](http://en.wikipedia.org/wiki/Cyborg_Justice).
+
+After three days of TIGJam, we ended up with a nicely fleshed-out prototype, including enemy robots, three selectable weapons (grabber arm, minigun, and rocket launcher), and, of course, exploding barrels. We made this video earlier today, showcasing a total of four days of work:
+
+<iframe src="https://player.vimeo.com/video/1854457" width="500" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+There were some other fantastic games being worked on during the jam, including a number for the upcoming [Gamma 3D](http://www.kokoromi.org/gamma3d) showcase. My personal favorite (other than of course [World of Goo](http://2dboy.com/games.php), which Kyle and Ron of 2D Boy were working on) was Alec Holowka and Adam Saltsman's [curling game](http://infiniteammo.ca/blog/curling/), which looks completely sick after only three days of work!
+
+Photos from the jam are up in my [Flickr stream](http://www.flickr.com/photos/mmechtley/sets/72157607591863260/). Adam and I plan to be finished with our robot project by the time that Unity iPhone reaches release -- I'll update as it comes along!

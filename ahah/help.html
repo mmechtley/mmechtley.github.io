@@ -1,0 +1,507 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15" />
+<meta http-equiv="Expires" content="0" />
+<title>Appreciating Hubble at Hyper-speed: Online Manual</title>
+<meta name="Keywords" content="AHaH, Hubble, Simulation, Interactive" />
+<meta name="Description" content="Appreciating Hubble at Hyper-speed Online Manual" />
+<meta name="Author" content="Matt Mechtley" />
+<meta name="Copyright" content="Copyright (c) 2007 by Matt R. Mechtley, Lisa M. Will, Rogier A. Windhorst" />
+<link rel="stylesheet" type="text/css" href="./main.css" />
+<script type="text/javascript" src="./browser.js"></script>
+</head>
+<body>
+<div id="container">
+	<div id="header"><p>Appreciating Hubble at Hyper-speed: Online Manual</p></div>
+	<div id="nav">
+	<table cellpadding="0px" cellspacing="3px">
+		<tr>
+			<td class="button"><a href="./index.html">Home</a></td>
+			<td class="button"><a href="./download.html">Download</a></td>
+			<td class="button"><a href="./exercises.html">Exercises</a></td>
+			<td class="button"><a href="./help.html">Help</a></td>
+			<td class="button"><a href="./glossary.html">Glossary</a></td>
+			<td class="button"><a href="http://hubblesite.org">HST</a></td>
+		</tr>
+	</table>
+	</div>
+	<p>Welcome to the online user manual for the Appreciating Hubble at Hyper-speed
+		visualization tool. For help on a specific topic, select it from the list 
+		below. Otherwise, scroll down to start from the beginning.</p>
+	<a name="index"></a>
+	<ul>
+		<li><a href="#requirements">System Requirements</a></li>
+		<li><a href="#installing">Installing and Running the Application</a></li>
+		<li><a href="#mainscreen">Main Screen and User Interface</a></li>
+		<li><a href="#moving">Moving the Camera<a/></li>
+		<li><a href="#hotkeys">Hotkeys and Special Functions</a></li>
+		<li><a href="#options">Changing Options and Settings</a></li>
+		<li><a href="#config">Configuration File and Advanced Options</a></li>
+		<li><a href="#license">License, Source Code, and Modifications</a></li>
+	</ul>
+	
+	<a name="requirements">
+	<h1>System Requirements</h1></a>
+	<p>The following are the minimum system requirements to run the Appreciating 
+		Hubble at Hyper-speed application:</p>
+	<ul>
+		<li>Microsoft Windows, Mac OS, or *nix operating system with Sun Java 
+			runtime version 1.4.3 or later</li>
+		<li>1.0 GHz processor</li>
+		<li>256 MB RAM</li>
+		<li>Mouse and Keyboard</li>
+	</ul>
+	<p>We recommend the following for optimal system performance:</p>
+	<ul>
+		<li>2.0 GHz dual-core processor</li>
+		<li>1.0 GB RAM</li>
+		<li>Graphics accelerator card with 64 MB video RAM</li>
+	</ul>
+	<p>Additionally, an internet connection is required if you wish to view 
+		extended information about selected galaxies.</p>
+		
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<a name="installing">
+	<h1>Installing and Running the Application</h1></a>
+	<p>The Appreciating Hubble at Hyper-speed application is distributed as an 
+		archive containing a standard executable Java resource file. To install 
+		the application, simply <a href="./download.html">download</a> the 
+		archive file for your operating system and save it wherever you prefer. 
+		Extract the archive wherever you like and then double-click the ahah.jar 
+		file to run the program. If you prefer to run from the command line, use 
+		<code>java&nbsp;-jar&nbsp;ahah.jar</code>.</p>
+	<p>Also provided is a configuration file, <code>ahah.conf</code>, that 
+		provides several options that you may modify if you want to use custom 
+		settings every time you run the program. See the 
+		<a href="#config">Configuration File</a> section for more 
+		information.</p>
+		
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<a name="mainscreen">
+	<h1>Main Screen and User Interface</h1></a>
+	<p>The main screen represents your primary interface with the application. 
+		Besides holding the actual visualization, the screen also provides 
+		various forms of information about the simulation and methods to 
+		interact with and gain more information about specific galaxies.</p>
+	<div class="images">
+		<span class="caption"><a href="./images/main_screen.jpg">
+			<img src="./images/main_screen_thumb.jpg" 
+				alt="Main screen with labeled elements" />
+			<p>Main screen with important elements labeled. Click to enlarge.</p>
+		</a></span>
+	</div>
+	<p>The numbered user interface elements are as follows:</p>
+	<ol>
+		<li><strong>Position Indicator</strong>, showing the camera's x and y 
+			position within the coordinate system, as well as the camera's 
+			redshift.</li>
+		<li><strong><a href="#hotkeys-geometry">Active Geometry 
+			Indicator</a></strong>, showing whether the Universe's real geometry is 
+			active or a non-physical geometry in which angular sizes are 
+			unaffected by the Universe's expansion.</li>
+		<li><strong><a href="#hotkeys-infobox">Info Box</a></strong> that shows 
+			more information about the selected galaxy, including its HUDF ID, 
+			redshift, and comoving radial distance.</li>
+		<li><strong><a href="#hotkeys-jumpdialog">Jump Dialog</a></strong>, 
+			where you may enter an Object ID or redshift on which to center the 
+			camera.</li>
+		<li><strong>Speed Indicator</strong>. Used to remind you that the speeds 
+			represented in the application (when moving) are not physically 
+			attainable.</li>
+	</ol>
+	
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<a name="moving">
+	<h1>Moving the Camera</h1></a>
+	<p>You may move the camera using either the mouse or keyboard, or with a 
+		combination of both. We recommend that most users navigate with the 
+		mouse, though advanced users may find the precision movement afforded by 
+		the keyboard useful in some situations.</p>
+	<p>To navigate using the mouse, simply click and hold the left mouse button 
+		anywhere within the <a href="#mainscreen">Main Screen</a>. Moving the 
+		mouse will then move the camera left, right, up, and down. To move 
+		forward and backward, either scroll the mouse wheel up and down, or 
+		click and hold the mouse wheel or middle mouse button, then move the 
+		mouse forward and backward. You may also move forward and backward by 
+		holding shift while clicking and holding the left mouse button.</p>
+	<p>To navigate using the keyboard, simply use the arrow keys to move left, 
+		right, up, and down. To move forward and backward, hold shift and use 
+		the up and down arrow keys. Holding control while using keyboard 
+		navigation will move the camera at 10x the normal speed.</p>
+	<p>In addition to direct navigation, you may double left-click on any galaxy 
+		to initiate an automatic move to it. This will move the camera at a 
+		moderate pace along the line (geodesic) between the camera and the 
+		galaxy. The automatic move can be cancelled at any time by performing 
+		most other actions, such as attempting to move the camera or selecting a 
+		galaxy. Note that toggling the <a href="#hotkeys-geometry">spatial 
+		geometry mode</a> will <em>not</em> cancel an automatic movement.</p>
+		
+	<span class="jump"><a href="#index">Back to Index</a></span>
+		
+	<a name="hotkeys">
+	<h1>Hotkeys and Special Functions</h1></a>
+	<p>The application contains a number of additional features besides moving 
+		the camera, most of which are accessed using hotkeys. The following 
+		table contains an overview of these additional features and their 
+		hotkeys:</p>
+	<table>
+		<tr class="head">
+			<td>Program Feature</td>
+			<td>Hotkey</td>
+		</tr>
+		<tr>
+			<td>Select a galaxy and open its <a href="#hotkeys-infobox">Info 
+				Box</a></td>
+			<td>Left-click galaxy</td>
+		</tr>
+		<tr>
+			<td>Toggle spatial <a href="#hotkeys-geometry">geometry mode</a></td>
+			<td>G</td>
+		</tr>
+		<tr>
+			<td>Open <a href="#hotkeys-jumpdialog">Jump Dialog</a> to travel to 
+				a specific galaxy or redshift</td>
+			<td>J</td>
+		</tr>
+		<tr>
+			<td><a href="#hotkeys-reset">Reset</a> the simulation and move the 
+				camera to the origin</td>
+			<td>R or F5</td>
+		</tr>
+		<tr>
+			<td>Open the <a href="#hotkeys-helpdialog">Help and Options 
+				Dialog</a></td>
+			<td>H or F1</td>
+		</tr>
+	</table>
+	<a name="hotkeys-infobox">
+	<h2>Info Box</h2></a>
+	<p>The Info Box contains various information about the selected galaxy:</p>
+	<ul>
+		<li>The <strong>Object ID</strong> is a number uniquely identifying each 
+			galaxy and can be used in conjunction with the <a 
+			href="#hotkeys-jumpdialog">Jump Dialog</a> to direct another user to 
+			a specific galaxy.</li>
+		<li>The <strong>Redshift</strong> represents the factor by which a 
+			galaxy's observed spectrum is shifted from what we would observe if 
+			it were nearby. It is this measurement that allows us to calculate 
+			distances to galaxies.</li>
+		<li>The <strong>Comoving Radial Distance</strong> represents the spatial 
+			separation of the galaxy from the origin at the present epoch, 
+			assuming zero peculiar velocity with respect to our own galaxy. It 
+			is calculated using the currently active <a 
+			href="#options-cosmology">cosmology constants</a>.</li>
+		<li>The <strong>Stamp Size</strong> is the length of one side of the 
+			black box surrounding the galaxy's picture. Thus if a galaxy takes 
+			up roughly half the width of the box and has a stamp size of 30 kpc, 
+			its proper transverse diameter should be about 15 kpc.</li>
+		<li>The <strong>More Information Link</strong> links to a web page 
+			containing additional data for the selected galaxy. This includes 
+			its position (RA and Dec) and spectral fitting data. Note that not 
+			all galaxies have this additional information available. 
+			Specifically, it is available only for those galaxies that were 
+			included in the <a href="http://wwwgrapes.dyndns.org/">GRAPES</a> 
+			survey, which are most of the bright, large galaxies.</li>
+		<li>The <strong>Jump Button</strong> moves the camera to a view centered 
+			on the selected galaxy, exactly as if the galaxy's ID number had 
+			been entered into the <a href="#hotkeys-jumpdialog">Jump 
+			Dialog</a>.</li>
+	</ul>
+	<div class="images">
+		<span class="caption"><a href="./images/infobox.png">
+			<img src="./images/infobox_thumb.png" 
+				alt="Info box for a sample galaxy" />
+			<p>Example Info Box. Click to enlarge.</p>
+		</a></span>
+	</div>
+	<a name="hotkeys-geometry">
+	<h2>Spatial Geometry Mode</h2></a>
+	<p>Toggling the spatial geometry mode changes between the Universe's actual 
+		geometry and a geometry where angular sizes are unaffected by the 
+		expansion of the Universe. This second geometry does not have a physical 
+		analogue - it does <em>not</em> represent what the Universe would look 
+		like if it were not expanding, or any other such set of circumstances. 
+		Instead, it is provided simply to convey visually that observed angular 
+		sizes have been affected by the scale factor.</p>
+	<a name="hotkeys-jumpdialog">
+	<h2>Jump Dialog</h2></a>
+	<p>The Jump Dialog is a way to quickly move to a specific location. If you 
+		enter an Object ID number then the simulation will move the camera to a 
+		position centered on that object. This is useful for labs that require 
+		students to examine a number of specific galaxies. If no Object ID is 
+		entered then the simulation will move the camera to the specified 
+		redshift, leaving the x and y coordinates fixed.</p>
+	<a name="hotkeys-reset">
+	<h2>Resetting</h2></a>
+	<p>Using the reset function will reset the simulation, exactly as if the 
+		application had been newly opened. This includes reloading all galaxies 
+		- both images and position data - as well as recalculating all distances 
+		and moving the camera to the origin. It also resets the graphics 
+		rendering thread, so may be used in the event that images fail to 
+		update.</p>
+	<a name="hotkeys-helpdialog">
+	<h2>Help and Options Dialog</h2></a>
+	<p>The Help and Options Dialog gives you basic information about running the 
+		application, such as movement controls, as well as allowing you to 
+		modify some of the simulation's configuration parameters at runtime. It 
+		is discussed in detail in the next section. Additionally, the license 
+		for the software is also provided in this dialog.</p>
+	<div class="images">
+		<span class="caption"><a href="./images/help_pane.png">
+			<img src="./images/help_pane_thumb.png" 
+				alt="Application help and options dialog" />
+			<p>Help pane of the help and options dialog. Click to enlarge.</p>
+		</a></span>
+	</div>
+	
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<a name="options">
+	<h1>Changing Options and Settings</h1></a>
+	<p>There are two primary ways of changing options and settings for the 
+		application. These are the <a href="#config">Configuration File</a>, 
+		which will be covered in the next section, and the options pane of the 
+		Help and Options Dialog. The options pane contains two primary sections, 
+		<a href="#options-cosmology">Cosmology Parameters</a> and <a 
+		href="#options-performance">Program Performance</a>.</p>
+	<a name="options-cosmology">
+	<h2>Cosmology Parameters</h2></a>
+	<p>The Cosmology Parameters section allows you to modify certain constants 
+		of the displayed cosmology. There are currently four parameters that may 
+		be modified at runtime:</p>
+	<ul>
+		<li><strong>H<sub>0</sub></strong> is the Hubble Constant, which goes 
+			into Hubble's Law relating recessional velocity and distance. It is 
+			also used when obtaining proper distances from coordinate distances 
+			within the application. Its units are km/s/Mpc.</li>
+		<li><strong>&Omega;<sub>M</sub></strong> is the matter density parameter 
+			of the Universe. It represents what fraction of the total energy 
+			density of the Universe is attributable to matter, both baryonic and 
+			dark.</li>
+		<li><strong>&Omega;<sub>&Lambda;</sub></strong> is the so-called vacuum 
+			energy density parameter of the Universe. It represents what 
+			fraction of the total energy density of the Universe is attributable 
+			to dark energy, ie. expansion energy associated with the 
+			Cosmological Constant, &Lambda;.</li>
+		<li><strong>&Omega;<sub>R</sub></strong> is the radiation density 
+			parameter of the Universe. It represents what fraction of the total 
+			energy density of the Universe is attributable to radiation.</li>
+	</ul>
+	<p>The curvature parameter, &Omega;<sub>K</sub> is derived from these 
+		supplied parameters internally as &Omega;<sub>K</sub> = 1 - 
+		(&Omega;<sub>M</sub> + &Omega;<sub>&Lambda;</sub> + 
+		&Omega;<sub>R</sub>). Most changes to these parameters will result in 
+		rather subtle visual effects - they will manifest primarily as changes 
+		to the comoving radial distance in a galaxy's Info Box. Curvatures that 
+		are very large in magnitude (|&Omega;<sub>K</sub>|&nbsp;&gt;&gt;&nbsp;1) 
+		may result in more marked visual differences.</p>
+	<a name="options-performance">
+	<h2>Program Performance</h2></a>
+	<p>The Program Performance section contains one value that may be changed at 
+		runtime - the Cull Size. It sets the smallest size in pixels for which 
+		a galaxy's image will be displayed - if a galaxy's size is smaller than 
+		the Cull Size, the galaxy will be displayed as a single pixel of its 
+		averaged color. Modification of this value is provided as a way to 
+		adjust the speed at which the application runs. The most CPU-intensive 
+		task is resizing and displaying images, so by increasing the Cull Size 
+		you may decrease the number of displayed images and thus increase the 
+		speed of the simulation. Note that <em>decreasing</em> the Cull Size 
+		will provide better visuals but could potentially slow the application 
+		down significantly.</p>
+	<div class="images">
+		<span class="caption"><a href="./images/options_pane.png">
+			<img src="./images/options_pane_thumb.png" 
+				alt="Application help and options dialog" />
+			<p>Options pane of the help and options dialog. Click to 
+				enlarge.</p>
+		</a></span>
+	</div>
+	
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<a name="config">
+	<h1>Configuration File and Advanced Options</h1></a>
+	<p>In addition to <a href="#options">runtime options</a> in the Help and 
+		Options Dialog, you may create or download an optional configuration 
+		file to modify the application's default behavior. This file is simply a 
+		specially formatted text file called <code>ahah.conf</code> that must be 
+		placed in the same directory as <code>ahah.jar</code>. The options are 
+		placed in the file as Key&nbsp;:&nbsp;Value pairs separated by a colon. 
+		For example the line <code>OmegaM&nbsp;:&nbsp;0.237</code> sets 
+		&Omega;<sub>M</sub> to 0.237, the currently accepted COBE/WMAP value. 
+		Comments within the file are preceded by <code>#</code> and section 
+		headings (optional) are placed in brackets, such as <code>[Cosmology 
+		Constants]</code>. Keys other than those below will simply be ignored, 
+		and giving a key an improper value (such as a floating point number 
+		where an integer is required) will cause the application to print an 
+		error and then use the default value. The available options are as 
+		follows:</p>
+	<a name="config-appoptions">
+	<h2>Application Operation Options</h2></a>
+	<p>Options in this section change the default behaviors of how the 
+		application runs, including performance tweaks.</p>
+	<ul>
+		<li><strong>FrameSleepTime</strong> is an <code>integer</code> that 
+			specifies the time in milliseconds to wait between redraws of the 
+			main simulation window. A shorter time will update the viewport more 
+			often, but be more taxing on the CPU. Modifying the default value 
+			may affect performance drastically.</li>
+		<li><strong>MacroStepDelay</strong> is an <code>integer</code> that 
+			specifies the time in milliseconds to wait between steps of an 
+			automatic move (when double-clicking on a galaxy). A shorter time 
+			will result in smoother, faster movement</li>
+		<li><strong>CullSize</strong> is an <code>integer</code> that specifies 
+			the default Cull Size, as discussed in the <a 
+			href="#options">Options and Settings</a> section above. This way if 
+			you have a particularly fast computer, you can force the application 
+			to use a smaller Cull Size every time you run it. Thus you would not 
+			have to open the Help and Options Dialog to change it every time. 
+			Note that modifying the value at runtime using the Help and Options 
+			Dialog will always override any value in the configuration 
+			file.</li>
+		<li><strong>DefaultBrowser</strong> is a <code>string</code> 
+			representing your preferred browser command on *nix systems. If you 
+			do not change the setting yourself, the application will try, in 
+			order: <code>firefox</code>, <code>mozilla</code>, 
+			<code>opera</code>, <code>konqueror</code>, <code>epiphany</code>, 
+			<code>netscape</code>. The value set in the configuration file is 
+			simply any shell command, so may be something in <code>$PATH</code> 
+			like <code>firefox</code>, or the full path such as 
+			<code>/usr/local/share/firefox/firefox</code>. On Windows and Mac 
+			OS, the operating system's default browser is always used, so 
+			modifying this setting will have no effect.</li>
+	</ul>
+	<a name="config-cosmology">
+	<h2>Cosmology Constants</h2></a>
+	<p>Options in this section set the defaults for various cosmology constants. 
+		For more detailed explanations, see the <a 
+		href="#options-cosmology">descriptions</a> for the parameters in the 
+		Options and Settings section above. Like the Cull Size, changing the 
+		values at runtime using the Help and Options Dialog will override 
+		settings in the configuration file.</p>
+	<ul>
+		<li><strong>HNought</strong> is a <code>floating point</code> number 
+			that specifies the default value of the Hubble Constant, 
+			H<sub>0</sub>.</li>
+		<li><strong>OmegaM</strong> is a <code>floating point</code> number that 
+			specifies the default value of the matter density parameter, 
+			&Omega;<sub>M</sub>.</li>
+		<li><strong>OmegaV</strong> is a <code>floating point</code> number that 
+			specifies the default value of the vacuum energy density parameter, 
+			&Omega;<sub>&Lambda;</sub>.</li>
+		<li><strong>OmegaR</strong> is a <code>floating point</code> number that 
+			specifies the default value of the radiation density parameter, 
+			&Omega;<sub>R</sub>.</li>
+	</ul>
+	<a name="config-dataset">
+	<h2>Dataset Information</h2></a>
+	<p>Options in this section give the application information about the 
+		original image that the individual stamps come from, as well as 
+		specifying where to find the object database. Options from this section
+		should generally not be changed by users - they are provided for future 
+		use of the application with different data.</p>
+	<ul>
+		<li><strong>DBFile</strong> is a <code>string</code> representing the 
+			path of the database file <em>within the jar file</em>. This should 
+			only be modified if the application is repackaged with different 
+			data. The file should be specified with the root of the path being 
+			the root of the jar file, not of the computer's filesystem.</li>
+		<li><strong>ImageSizePx</strong> is an <code>integer</code> specifying 
+			the height and width of the original image in pixels. If for some 
+			reason the image is not square, use whichever dimension is 
+			larger.</li>
+		<li><strong>ImageArcsecPerPx</strong> is a <code>floating point</code> 
+			number that specifies the arcsec/px scale of the original image. 
+			This is used internally for changing pixel sizes to angular sizes 
+			and vice versa.</li>
+		<li><strong>MaxRedshift</strong> in an <code>integer</code> that 
+			specifies the maximum redshift for the distance tables. This need 
+			only be sufficiently large such that no object in the database has a 
+			higher redshift (as the program may then crash since it would not be 
+			able to correctly interpolate the object's distance).</li>
+	</ul>
+	<a name="config-config">
+	<h2>Application Configuration Constants</h2></a>
+	<p>Options in this section change aspects of the application that users 
+		generally do not need to modify, such as the locations of external 
+		resources like this documentation. These options are provided primarily 
+		as a convenience to website administrators in the event that urls 
+		change, etc.</p>
+	<ul>
+		<li><strong>StampURLBase</strong> is a <code>string</code> that 
+			specifies the directory containing the <a 
+			href="#hotkeys-infobox">More Information</a> html files for 
+			galaxies. The provided string must contain the trailing 
+			<code>/</code>. The application expects the html files within this 
+			directory to be named <code>n.html</code>, where <code>n</code> is 
+			the HUDF ID number of the object.</li>
+		<li><strong>HelpURL</strong> is a <code>string</code> that indicates the 
+			url of the application's online documentation, i.e. this page.</li>
+		<li><strong>TextColor</strong> is a <code>hex code</code> that defines 
+			the color of the text on the <a href="#mainscreen">Main Screen</a>. 
+			The value is standard RGB hex encoding (like in HTML and CSS), i.e. 
+			RRGGBB. For instance a deep purple would be encoded as 
+			<code>TextColor&nbsp;:&nbsp;6633aa</code>.</li>
+	</ul>
+	
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<a name="license">
+	<h1>License, Source Code, and Modifications</h1></a>
+	<p>The Appreciating Hubble at Hyper-speed application is provided under a 
+		<a href="./license.txt">BSD-like license</a>. In simple terms, this 
+		means that virtually any modification or redistribution of the 
+		application is permitted, with the following caveats:</p>
+	<ul>
+		<li>Any redistribution must retain the original copyright notice and 
+			license file, either with the source code or with the documentation
+			in the case of binary distributions.</li>
+		<li>The names of the copyright holders, contributors, and associated 
+			institutions may not be used to endorse or promote any derivative 
+			works without prior permission.</li>
+	</ul>
+	<p>Note that there is no requirement that source code be provided with any 
+		derivative work or redistribution. We encourage any derivative works to 
+		provide source code as well so that others may learn from your 
+		modifications, but we leave such decisions to your discretion.</p>
+	<h2>Application Source Code</h2>
+	<p>The application's source code is provided with the standard distribution. 
+		Java archives are simply standard ZIP (DEFLATE) archives with a special 
+		internal directory structure. Thus, you need only extract the contents 
+		of the archive using your favorite ZIP extractor (Using <code>jar</code> 
+		you would run <code>jar&nbsp;-xf&nbsp;ahah.jar</code>). The application 
+		source code is contained in the <code>src/</code> directory.</p>
+	<p><strong>Warning:</strong> The <code>ahah.jar</code> file exhibits 
+		"tarbomb" behavior, extracting to the current directory instead of its 
+		own subdirectory. This is mostly a limitation of the jar format, since 
+		the <code>META-INF/</code> directory must always be in the archive 
+		root. We strongly suggest you <strong>move the archive to its own 
+		directory before extracting it</strong>.</p>
+	<p>To compile the source you simply need to run 
+		<code>javac&nbsp;*.java</code>. The compiled binaries will automatically 
+		be placed within the directory <code>edu/asu/Ahah/</code>. To run the 
+		modified application you then need to create a new jar including the 
+		directories <code>edu/</code>, <code>images/</code>, and 
+		<code>data/</code>, as well as the files <code>defaults.conf</code> and 
+		<code>license.txt</code>, and any source code if you desire. You also 
+		need to specify a Manifest file, which must contain at least the line 
+		<code>Main-Class: edu.asu.Ahah.Ahah</code> - this tells the Java 
+		interpreter where to find the main class when a user runs the jar. An 
+		example jar creation command is:</p>
+	<p><code>jar -cvfm ahah.jar MANIFEST.MF edu images data src defaults.conf 
+		license.txt</code></p>
+	
+	<span class="jump"><a href="#index">Back to Index</a></span>
+	
+	<div id="footer">
+		<p>Site content copyright &copy; 2007 Matt R. Mechtley, Lisa M. Will, 
+			Rogier A. Windhorst<p>
+		<p><a href="./license.txt">Software License and Terms of Use</a></p>
+	</div>
+</div>
+</body>
+</html>

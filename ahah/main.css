@@ -1,0 +1,223 @@
+/* global style definitions */
+
+body {
+	background : white;
+	color : black;
+	font-family : Helvetica, Arial, Sans-Serif;
+	font-size : 12pt;
+}
+
+a:link {
+	font-weight : bold;
+	color : #3366cc;
+	text-decoration : none;
+}
+
+a:visited {
+	font-weight : bold;
+	color : #3366cc;
+	text-decoration : none;
+}
+
+a:hover {
+	background : #cccccc;
+	text-decoration : underline;
+}
+
+h1 {
+	font-size : 1.3em;
+	font-weight : bold;
+	color : #3366cc;
+	border-bottom : 1px solid black;
+}
+
+h2 {
+	font-size : 1em;
+	font-weight : bold;
+	border-bottom : 1px dashed gray;
+}
+
+code {
+	font-family : monospace;
+	color : #666666;
+	font-size : 0.9em;
+}
+
+img {
+	border : none;
+	margin : 3px;
+}
+
+table {
+	border : none;
+	background : none;
+	margin-top : 1em;
+	margin-bottom : 1em;
+}
+
+td {
+	border : none;
+	background : none;
+	padding-top : .1em;
+	padding-bottom : .1em;
+	padding-right : .1em;
+	vertical-align : middle;
+}
+
+dfn {
+	display : block;
+	font-style : normal;
+	margin-top : 1em;
+	margin-bottom : 1em;
+}
+
+/* specific elements */
+#container {
+	width : 800px;
+	margin : 0px;
+	padding : 0px;
+}
+
+#header {
+	background : url(./images/header.jpg) no-repeat;
+	color : #adb8cc;
+	margin : 0px;
+	padding : 0em;
+	vertical-align : bottom;
+	height : 180px;
+	font-size : 1.2em;
+}
+#header p {
+	padding : 1em;
+}
+
+#nav {
+	background : #204080 url(./images/nav_bg.png) repeat-y top right;
+}
+
+#nav table {
+	margin : 0px;
+	padding : 0px;
+}
+
+#nav td {
+	margin : 0px;
+	padding : 0px;
+	text-align : center;
+}
+
+#nav td.button a {
+	color : white;
+	display : block;
+	background : url(./images/button.png) top left no-repeat;
+	font-weight : bold;
+	text-decoration : none;
+	width : 108px;
+	height : 20px;
+	margin : 0px;
+	padding : 0px;
+	padding-top : 4px;
+}
+
+#nav td.button a:hover {
+	background-position : 0 -24px;
+}
+
+#footer {
+	text-align : center;
+	font-size : .75em;
+	border-top : 1px black solid;
+}
+
+#download {
+	width : 300px;
+	height : 80px;
+	margin : 10px;
+}
+
+#download img {
+	float : left;
+	border : none;
+	margin-right : 8px;
+}
+
+#download a {
+	display : block;
+	height : 72px;
+	padding : 8px;
+	vertical-align : middle;
+}
+
+#download a:hover {
+	background : none;
+	text-decoration : none;
+}
+
+#download p {
+	font-size : 1.1em;
+	margin-top : 4px;
+	margin-bottom : 0px;
+}
+
+#dl_subtext {
+	font-size : .75em;
+}
+
+/* Classes for specific elements */
+div.images {
+	text-align : center;
+}
+
+div.images a:link {
+	background : none;
+	color : black;
+	font-weight : normal;
+}
+
+div.images a:visited {
+	color : black;
+	font-weight : normal;
+}
+
+div.images a:hover {
+	background : none;
+}
+
+div.images img {
+	border : 1px solid #cccccc;
+}
+
+a.da {
+	color : red;
+}
+
+span.caption {
+	padding : 3px;
+	font-size : .8em;
+}
+
+span.term {
+	font-weight : bold;
+}
+
+tr.head {
+	font-weight : bold;
+}
+
+tr.head td {
+	border-bottom : 1px solid black;
+}
+
+span.jump {
+	font-size : 0.8em;
+	border-bottom : 1px dashed black;
+}
+
+img.decoration {
+	border : 1px solid #cccccc;
+	float : left;
+	margin-top : 0px;
+	margin-left : 0px;
+	margin-right : 5px;
+	margin-bottom : 5px;
+}
