@@ -266,11 +266,17 @@
 .image-float-left {
     margin-right: $spacing-unit / 4;
     float: left;
+    @include media-query($on-palm) {
+        float: none;
+    }
 }
 
 .image-float-right {
     margin-left: $spacing-unit / 4;
     float: right;
+    @include media-query($on-palm) {
+        float: none;
+    }
 }
 
 .center {
