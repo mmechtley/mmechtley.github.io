@@ -18,5 +18,5 @@ I previously worked as the iPhone specialist and resident science pedant at indi
 
 
 {% include icon-adsabs.html query='author:"Mechtley, M."' text="M. Mechtley at NASA ADS" %}  
-[Curriculum Vitae]({{site.baseurl}}/papers/cv.pdf)  
+[Curriculum Vitae]({{site.baseurl}}/papers/mmechtleycv.pdf)  
 [Dissertation](http://hdl.handle.net/2286/R.A.126037)
