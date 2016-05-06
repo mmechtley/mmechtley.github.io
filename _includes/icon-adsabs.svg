@@ -18,17 +18,11 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="bbb_logo" sketch:type="MSLayerGroup" transform="translate(-350.000000, -400.000000)">
-            <!-- <g id="background" transform="translate(1200.761571, 843.546066) rotate(58.000000) translate(-1200.761571, -843.546066) translate(588.761571, 231.546066)" sketch:type="MSShapeGroup">
-                <circle id="Oval-12" fill="#343434" cx="612" cy="612" r="612"></circle>
-                <circle id="Oval-12" fill="#343434" cx="612" cy="612" r="612"></circle>
-                <path d="M97.4675032,502.245598 C147.948265,264.426676 359.137241,86 612,86 C902.501778,86 1138,321.498222 1138,612 C1138,841.52163 990.993249,1036.70799 786.000002,1108.53883 L786,1078.82667 C975.262473,1008.26065 1110.05664,825.885917 1110.05664,612.028321 C1110.05664,336.974874 887.081768,114 612.028321,114 C371.742781,114 171.202027,284.167657 124.342932,510.566096 C115.664481,507.182994 106.689407,504.392899 97.4675023,502.245603 Z M151.978026,867.257971 C213.761063,978.364635 314.628181,1064.74959 435.999997,1107.83346 L436,1078.05466 C324.452474,1035.89895 232.006579,954.842939 175.211285,851.435569 C167.868809,857.235152 160.106722,862.526946 151.978026,867.257971 Z" id="Oval-13" fill="#A5A5A5"></path>
-            </g> -->
             <g id="magnifying-glass" transform="translate(1007.830629, 964.102699) rotate(58.000000) translate(-1007.830629, -964.102699) translate(415.830629, 146.602699)" sketch:type="MSShapeGroup">
                 <circle id="Oval-10" fill="#9B9B9B" transform="translate(592.000000, 592.000000) rotate(-49.000000) translate(-592.000000, -592.000000) " cx="592" cy="592" r="419"></circle>
                 <circle id="Oval-9" fill="url(#linearGradient-1)" transform="translate(597.029188, 595.029188) rotate(-49.000000) translate(-597.029188, -595.029188) " cx="597.029188" cy="595.029188" r="300.029188"></circle>
                 <circle id="Oval-9" fill="url(#linearGradient-1)" transform="translate(597.029188, 595.029188) rotate(-49.000000) translate(-597.029188, -595.029188) " cx="597.029188" cy="595.029188" r="300.029188"></circle>
                 <circle id="Oval-9" fill="url(#linearGradient-2)" transform="translate(597.000000, 595.000000) rotate(-49.000000) translate(-597.000000, -595.000000) " cx="597" cy="595" r="260"></circle>
-                <!-- <path d="M421.269577,1026.95919 L771.269577,1026.95919 L771.269577,1459.74099 C771.269577,1556.39527 692.91343,1634.74905 596.269577,1634.74905 L596.269577,1634.74905 C499.619746,1634.74905 421.269577,1556.3997 421.269577,1459.74099 L421.269577,1026.95919 Z" id="Rectangle-9" fill="#343434"></path> -->
                 <g id="Group-5" transform="translate(602.360512, 1283.857398) rotate(-58.000000) translate(-602.360512, -1283.857398) translate(331.860512, 1055.857398)">
                     <g id="Group-6" transform="translate(270.510623, 212.084510) rotate(57.000000) translate(-270.510623, -212.084510) translate(196.510623, -61.915490)" fill="#9B9B9B">
                         <rect id="Rectangle-7" transform="translate(74.000000, 68.437669) rotate(91.000000) translate(-74.000000, -68.437669) " x="7" y="32.9375896" width="134" height="71.0001594"></rect>
@@ -40,8 +34,6 @@
                     <path d="M452.872371,63.9843924 L487.872371,63.9843924 L487.872371,149.364077 L452.872371,139.916627 L452.872371,63.9843924 Z" id="Rectangle-9" fill="#878787" transform="translate(470.372371, 106.674235) rotate(58.000000) translate(-470.372371, -106.674235) "></path>
                 </g>
             </g>
-            <!-- <circle id="Oval-16" fill="#343434" sketch:type="MSShapeGroup" cx="824.5" cy="432.5" r="207.494852"></circle>
-            <path d="M829.103362,570.206723 C906.480312,570.206723 969.206723,507.480312 969.206723,430.103362 C969.206723,352.726412 906.480312,290 829.103362,290 C751.726412,290 689,352.726412 689,430.103362 C689,507.480312 751.726412,570.206723 829.103362,570.206723 Z" id="Oval-20" fill="url(#radialGradient-3)" sketch:type="MSShapeGroup"></path> -->
             <text id="a" sketch:type="MSTextLayer" font-family="Helvetica" font-size="700" font-weight="bold" fill="#FFFFFF">
                 <tspan x="1007" y="1030">a</tspan>
             </text>
