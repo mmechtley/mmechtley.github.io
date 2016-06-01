@@ -28,6 +28,6 @@ Don't forget to trash the coreutils directory once you're done with it.
 
 Now all you need to do is run `ls --color=auto` to get colored output. I suggest adding the line `alias ls='ls -hF --color=auto'` to your `.bash_profile` file. This makes `ls` color-code output, as well as giving helpful symbols to indicate executable/directory/etc status and displaying file sizes in a human-readable format.
 
-To get the full benefit of the color system, you'll also want to create a `.dir_colors` file in your home directory, and have `dircolors` run when you start a shell. Add a line to your `.bash_profile` such as ``eval `dircolors` ``. You may [download my `.dir_colors`]({{site.baseurl}}/blog/assets/2007/.dir_colors) and modify it if you like. With all that done, you can get pretty results like this:
+To get the full benefit of the color system, you'll also want to create a `.dir_colors` file in your home directory, and have `dircolors` run when you start a shell. Add a line to your `.bash_profile` such as ``eval `dircolors` ``. You may [download my `.dir_colors`]({{site.baseurl}}/blog/assets/2007/dir_colors) and modify it if you like. With all that done, you can get pretty results like this:
 
 {% include figure.html url="/blog/assets/2007/replaced_ls.png" caption="ls with colors!" %}
