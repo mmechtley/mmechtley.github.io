@@ -6,7 +6,11 @@ layout: default
 
 # Matt Mechtley, Ph.D., K.S.C. #
 
-I'm currently a postdoctoral researcher living in Tallahassee, Florida and collaborating mainly with researchers from Arizona State University and the Max-Planck-Institut für Astronomie in Heidelberg, Germany. [My research]({{site.baseurl}}/research) focuses on the growth of supermassive black holes and their host galaxies. I work primarily with the Hubble Space Telescope and large ground-based telescopes, including the Large Binocular Telescope in Arizona, the European Very Large Telescope in Chile, and the Gemini telescopes in Hawaii and Chile.
+I'm currently a postdoctoral researcher living in Tallahassee, Florida and collaborating mainly with researchers from Arizona State University and the Max-Planck-Institut für Astronomie in Heidelberg, Germany. My research focuses on the growth of supermassive black holes and their host galaxies.
+
+## [Current Research ‣]({{site.baseurl}}/research)
+
+I work primarily with the Hubble Space Telescope and large ground-based telescopes, including the Large Binocular Telescope in Arizona, the European Very Large Telescope in Chile, and the Gemini telescopes in Hawaii and Chile.
 
 I completed my Ph.D. in Astrophysics in December 2013 at Arizona State University, where I was advised by Prof. Rogier Windhorst. My dissertation, _Markov Chain Monte Carlo Modeling of High-Redshift Quasar Host Galaxies in Hubble Space Telescope Imaging_, is freely available via the link below.
 
