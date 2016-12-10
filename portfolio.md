@@ -10,8 +10,10 @@ A test project and [accompanying tutorial]({% post_url 2012-04-24-unity3d-surfac
 
 # Power Glove 20th Anniversary Edition (2009)
 A stripped-out and retrofitted Nintendo Power Glove, using an Arduino microcontroller, 3-axis accelerometer, original finger bend sensors, and communicating with the computer via Bluetooth. Wireless!
+
 Build video
 <iframe src="https://player.vimeo.com/video/3985361" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Demonstration video with Off-Road Velociraptor Safari
 <iframe src="https://player.vimeo.com/video/4821694" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -24,43 +26,43 @@ Work at indie video game developer Flashbang Studios. In two years with a core t
 
 Note: With the original Unity Web Player replaced by the newer WebGL player, the original projects all need to be updated to newer Unity versions for WebGL builds, so they aren't currently online. Gameplay videos below!
 
-## Time Donkey (2009)
+# Time Donkey (2009)
 A mild-mannered donkey, unstuck in the same 30 seconds of time, forced to live it over and over. Interact with your past selves to explore, escape, and collect tacos. waH eeH!
 <iframe src="https://player.vimeo.com/video/6350716" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Crane Wars (2009)
+# Crane Wars (2009)
 Run the crane on your union shop's construction site to compete against the rotten scabs next door.
 <iframe src="https://player.vimeo.com/video/5114847" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Blush (2009)
+# Blush (2009)
 Collect glowing eggs in a dreamy undersea world, but watch out for nightmare predators of the deep.
 <iframe src="https://player.vimeo.com/video/3427308" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## ¡Rebolt! (2008, iOS)
+# ¡Rebolt! (2008, iOS)
 Explore the ruins of a wasted planet, salvaging enemy robots for parts. Uncover the history of the ruined world.
 <iframe src="https://player.vimeo.com/video/2441994" width="640" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Raptor Copter (2008, iOS)
+# Raptor Copter (2008, iOS)
 Return to the service of the NumNums corporation, piloting a cargo helicopter to catch, crate, and send velociraptors back to the future. For profit, and tacos.
 <iframe src="https://player.vimeo.com/video/2428637" width="640" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## iSplume (2008, iOS)
+# iSplume (2008, iOS)
 iOS version of our 2007 physics bubble-popper Splume, written natively in OpenGLES/Objective-C.
 <iframe src="https://player.vimeo.com/video/1693326" width="640" height="608" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Minotaur in a China Shop (2008)
+# Minotaur in a China Shop (2008)
 What would the minotaur do if he were released from the labyrinth on good behavior? Start his own small business, of course! Make money to upgrade your shop, but don't break your merchandise or you'll succumb to minotaur rage! a psychological condition covered by your insurance)
 <iframe src="https://player.vimeo.com/video/2474951" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Jetpack Brontosaurus (2008)
+# Jetpack Brontosaurus (2008)
 Jetpack dreams of the Apatosaurus named Brontosaurus. Pilot Wings-style mission gameplay in free-roaming levels.
 <iframe src="https://player.vimeo.com/video/1107324" width="640" height="483" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Off-Road Velociraptor Safari (2008)
+# Off-Road Velociraptor Safari (2008)
 Dinosaurs and pterosaurs, off-road vehicles, insane stunts, an allegory for 19th century British imperialism, and tacos. The first video game with anatomically-accurate feathered velociraptors.
 <iframe src="https://player.vimeo.com/video/618534" width="640" height="483" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Splume (2007)
+# Splume (2007)
 Gloopy physics meets Puzzle Bobble, with a built-in level editor.
 <iframe src="https://player.vimeo.com/video/1809271" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
