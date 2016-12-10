@@ -5,7 +5,7 @@ title: Project Portfolio
 Outside of my scientific research, I have worked on projects in games and interactive media, including commercial products, technology demonstrations, and art installations. Some of the major ones are summarized below.
 
 # BlueMarble Surface Shader Tutorial (2012)
-A test project and accompanying tutorial to learn about using surface shaders in Unity3D, using NASA's BlueMarble Next Generation dataset.
+A test project and [accompanying tutorial]({% post_url 2012-04-24-unity3d-surface-shader-tutorial %}) to learn about using surface shaders in Unity3D, using NASA's BlueMarble Next Generation dataset.
 {% include figure.html url="/blog/assets/2012/Icon-Big.png" alt="Blue Marble Surface Shader Demo"  link="/projects/BlueMarble/" %}
 
 # Power Glove 20th Anniversary Edition (2009)
