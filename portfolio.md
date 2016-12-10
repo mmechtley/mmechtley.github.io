@@ -38,8 +38,8 @@ Run the crane on your union shop's construction site to compete against the rott
 Collect glowing eggs in a dreamy undersea world, but watch out for nightmare predators of the deep.
 <iframe src="https://player.vimeo.com/video/3427308" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### ¡Rebolt! (2008, iOS)
-Explore the ruins of a wasted planet, salvaging enemy robots for parts. Uncover the history of the ruined world.
+### !Rebolt! (2008, iOS)
+Explore the ruins of a wasted planet, salvaging enemy robots for parts and collecting artifacts. Uncover the history of the ruined world.
 <iframe src="https://player.vimeo.com/video/2441994" width="640" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Raptor Copter (2008, iOS)
