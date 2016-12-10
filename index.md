@@ -1,5 +1,6 @@
 ---
 layout: default
+title: false
 ---
 
 {% include figure.html url="/images/headshot.jpg" class="image-float-left" %}
