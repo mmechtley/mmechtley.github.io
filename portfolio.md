@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Portfolio
+title: Portfolio
 ---
 Outside of my scientific research, I have worked on projects in games and interactive media, including commercial products, technology demonstrations, and art installations. Some of the major ones are summarized below.
 
