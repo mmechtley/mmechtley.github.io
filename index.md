@@ -19,6 +19,8 @@ I earned my B.S. in Mathematics from Arizona State University in 2007. As an und
 
 Outside of work I enjoy travel, hiking, cycling, citrus, and [making](http://makezine.com/) things, especially custom electronics for video games. I previously worked as the iPhone specialist and resident science pedant at indie video game developer [Flashbang Studios](http://blurst.com/). I worked primarily with [Unity 3D](http://unity3d.com/), though I also did nearly all of the Cocoa/Objective-C programming on our iPhone games. I contributed significantly to our games Splume, Off-Road Velociraptor Safari, Jetpack Brontosaurus, Minotaur in a China Shop, Rebolt, Blush, Crane Wars, and Time Donkey. I also developed the iPhone boxing game Touch KO with my brother Adam Mechtley.
 
+## [Portfolio ‣]({{site.baseurl}}/portfolio)
+
 
 {% include icon-adsabs.html query='author:"Mechtley, M."' text="M. Mechtley at NASA ADS" %}  
 [Curriculum Vitae]({{site.baseurl}}/papers/mmechtleycv.pdf)  
