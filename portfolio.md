@@ -24,7 +24,7 @@ Realistic-visuals boxing game built for then-current iPhone 3G. Collaboration wi
 ## Blurst.com (2007-2009)
 Work at indie video game developer Flashbang Studios. In two years with a core team of six, we produced seven arcade-style score-attack games and three iPhone games, primarily in Unity3D. We focused on rapid iteration and prototyping, and averaged a game every 8 weeks. I split coding work with 2 other core programmers and though I was designated quaternion slerper, I touched most systems on one or more projects, including AI, animation, physics, GUI, input/controls, gameplay, and random china shop generation.
 
-Note: With the original Unity Web Player replaced by the newer WebGL player, the original projects all need to be updated to newer Unity versions for WebGL builds, so they aren't currently online. Gameplay videos below!
+Note: The original Unity Web Player was replaced by the newer WebGL player, but these projects all need to be updated to newer Unity versions for WebGL builds, so they aren't currently online. Gameplay videos below!
 
 ### Time Donkey (2009)
 A mild-mannered donkey, unstuck in the same 30 seconds of time, forced to live it over and over. Interact with your past selves to explore, escape, and collect tacos. waH eeH!

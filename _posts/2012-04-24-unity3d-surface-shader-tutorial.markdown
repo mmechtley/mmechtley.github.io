@@ -115,7 +115,7 @@ half4 LightingPlanetSpecular (SurfaceOutput s, half3 lightDir, half3 viewDir, ha
     float specStr = max (0, dot(s.Normal, lightView));
     float spec = pow (specStr, _SpecPower);
     half4 c;
-    c.rgb = _LightColor0.rgb * (atten * 2) * (s.Albedo * diffuse +
+    c.rgb = _LightColor0.rgb * atten * (s.Albedo * diffuse +
         spec * s.Specular * _Shininess * _SpecColor) +
         (saturate(1.0-2*diffuse) * s.Alpha * _EmissionStr * _EmissionColor);
     c.a = s.Specular;
