@@ -6,7 +6,7 @@ Outside of my scientific research, I have worked on projects in games and intera
 
 ## BlueMarble Surface Shader Tutorial (2012)
 A test project and [accompanying tutorial]({% post_url 2012-04-24-unity3d-surface-shader-tutorial %}) to learn about using surface shaders in Unity3D, using NASA's BlueMarble Next Generation dataset.
-{% include figure.html url="/blog/assets/2012/Icon-Big.png" alt="Blue Marble Surface Shader Demo"  link="/projects/BlueMarble/" %}
+{% include figure.html url="/blog/assets/2012/Icon-Big.png" alt="Blue Marble Surface Shader Demo"  link="/blog/2012/04/24/unity3d-surface-shader-tutorial" %}
 
 ## Power Glove 20th Anniversary Edition (2009)
 A stripped-out and retrofitted Nintendo Power Glove, using an Arduino microcontroller, 3-axis accelerometer, original finger bend sensors, and communicating with the computer via Bluetooth. Wireless!
