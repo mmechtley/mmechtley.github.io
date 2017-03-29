@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Research
+title: Research
 ---
 
 I deal mainly in **quasars** and **high-redshift galaxies**. My research for the past several years has dealt with studying the host galaxies of high-redshift quasars, especially to better understand quasar triggering or feeding mechanisms. I leverage my strong background in **programming** and **math** to analyze data using modern computational and statistical methods.
