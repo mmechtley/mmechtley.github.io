@@ -15,6 +15,6 @@ Being a big fan of [stickers]({% post_url 2008-01-01-citation-needed %}) you can
 
 The image I chose is one of my favorite Hubble Space Telescope pictures, the [Antennae Galaxies](http://hubblesite.org/newscenter/archive/releases/2006/46/). I've photoshopped the fake supernovae over the top. As always, there's a [Flickr set](http://www.flickr.com/photos/mmechtley/sets/72157623551813735/) that will continue growing. Here are the source files so you can print some yourself -- they're intended for 2.5" x 2.5" sticker backs.
 
-[Master psd](http://dl.dropbox.com/u/209408/blog/supernovae.psd)  
+[Master psd](/blog/assets/2010/supernovae.psd)  
 [UBahn font](http://www.dafont.com/ubahn.font)  
 [Patagonian font (with bonus dinosaurs!)](http://www.dafont.com/patagonian-titles.font)
