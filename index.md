@@ -5,7 +5,7 @@ title: false
 
 {% include figure.html url="/images/headshot.jpg" class="image-float-left" %}
 
-# Matt Mechtley, Ph.D., K.S.C.
+# Mira Mechtley, Ph.D., K.S.C.
 
 I currently work as a client engineer for [Dire Wolf Digital](http://www.direwolfdigital.com/) in Denver, working on multiplayer card and strategy games. I do almost all of my gamedev work in [Unity 3D](https://unity3d.com). I previously worked as the iPhone specialist and resident science pedant at indie video game developer [Flashbang Studios](http://blurst.com/). I contributed significantly to our games Splume, Off-Road Velociraptor Safari, Jetpack Brontosaurus, Minotaur in a China Shop, Rebolt, Blush, Crane Wars, and Time Donkey. I also developed the iPhone boxing game Touch KO with my brother Adam Mechtley.
 
