@@ -3,7 +3,7 @@ layout: default
 title: false
 ---
 
-{% include figure.html url="/images/headshot.jpg" class="image-float-left" %}
+{% include figure.html url="/images/headshot.png" class="image-float-left" %}
 
 # Mira Mechtley, Ph.D., K.S.C.
 
