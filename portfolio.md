@@ -4,18 +4,21 @@ title: Portfolio
 ---
 Outside of my scientific research, I have worked on projects in games and interactive media, including commercial products, technology demonstrations, and art installations. Some of the major ones are summarized below.
 
-## Dire Wolf Digital (2017-Present)
+## Dinogod (2020-Present)
+Lead engineer on an unannounced action title.
+
+## Dire Wolf Digital (2017-2020)
 Client and occasional full-stack engineer on digital board and card games for Dire Wolf Digital in Denver, Colorado.
 
-## Root (2019-2020)
-A digital adaptation of the board game Root by Leder Games. I worked full-stack on this project, developing almost the entire client and server-side sequencing and bugfixing.
+### Root (2019-2020)
+A digital adaptation of the board game Root by Leder Games. I worked full-stack on this project, developing almost the entire client and bits here and there on the server.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/dncZ-hTVTyU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Raiders of the North Sea (2019)
+### Raiders of the North Sea (2019)
 A digital adaptation of the board game Raiders of the North Sea by Garphill Games and Renegade Game Studios. Client-side finaling work in the final push to release.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/YoKjsticxQ4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Eternal (2017-2018)
+### Eternal (2017-2018)
 A digital Collectible Card Game featuring both single- and multiplayer game modes. In two years on the project I touched most major systems, but my particular achievement was the client-side implementation of our Events and Tournaments system, including sealed, draft, bring-your-deck, and pre-constructed deck modes, used for everything from monthly sealed leagues to the first Eternal World Championships.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/569u2mZLFdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
