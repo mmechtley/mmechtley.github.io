@@ -9,7 +9,7 @@ I think a lot about how to teach people programming and mathematics. Particularl
 
 A perennially confusing topic when teaching programming is the variables `i` and `j` commonly used in 2D iteration. Without fail, you will one day be working [at 3am/in a new language/drunk] and forget which of these is the row of your matrix and which is the column. There is a very simple solution to this problem, which I stress to anyone I teach: **_Always_ use semantic names for your variables.** I have doubly stressed the word always because _I mean it_. In the case of matrices, the variable names `row` and `col` are still pretty short but communicate infinitely more information. I no longer even use `i` when doing simple loops, instead preferring semantic names like `step`. This is good practice for anyone, but isn't a new idea when writing code.
 
-A couple days ago, I was helping my girlfriend learn how to program partial differential equations using the [finite difference method](http://en.wikipedia.org/wiki/Finite_difference_method). We were working on the canonical example of the 2D time-dependent heat equation:
+A couple days ago, I was helping my partner learn how to program partial differential equations using the [finite difference method](http://en.wikipedia.org/wiki/Finite_difference_method). We were working on the canonical example of the 2D time-dependent heat equation:
 
 $$\frac{\partial^2 h}{\partial x^2} + \frac{\partial^2 h}{\partial y^2} = \frac{\partial h}{\partial t}$$
 
