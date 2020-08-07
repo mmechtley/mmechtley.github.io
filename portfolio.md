@@ -12,7 +12,7 @@ Client and occasional full-stack engineer on digital board and card games for Di
 
 ### Root (2019-2020)
 A digital adaptation of the board game Root by Leder Games. I worked as client lead and full-stack engineer on this project, developing almost the entire client and bits here and there on the server.
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dncZ-hTVTyU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-BvAXuH_0SA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Raiders of the North Sea (2019)
 A digital adaptation of the board game Raiders of the North Sea by Garphill Games and Renegade Game Studios. Client-side finaling work in the final push to release.
