@@ -11,7 +11,7 @@ Lead engineer on an unannounced action title.
 Client and occasional full-stack engineer on digital board and card games for Dire Wolf Digital in Denver, Colorado.
 
 ### Root (2019-2020)
-A digital adaptation of the board game Root by Leder Games. I worked full-stack on this project, developing almost the entire client and bits here and there on the server.
+A digital adaptation of the board game Root by Leder Games. I worked as client lead and full-stack engineer on this project, developing almost the entire client and bits here and there on the server.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/dncZ-hTVTyU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Raiders of the North Sea (2019)
