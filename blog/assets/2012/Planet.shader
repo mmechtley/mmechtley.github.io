@@ -1,4 +1,4 @@
-// Planet Surface Shader by Matt Mechtley
+// Planet Surface Shader by Mira Mechtley
 // Licensed Under a Creative Commons Attribution license
 // http://creativecommons.org/licenses/by/3.0/
 Shader "Custom/Planet" {
