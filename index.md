@@ -19,4 +19,4 @@ Outside of work I enjoy travel, hiking, cycling, citrus, and [making](http://mak
 
 {% include icon-adsabs.html query='author:"Mechtley, M."' text="M. Mechtley at NASA ADS" %}  
 [Curriculum Vitae]({{site.baseurl}}/papers/mmechtleycv.pdf)  
-[Dissertation](http://hdl.handle.net/2286/R.A.126037)
+[Dissertation](https://keep.lib.asu.edu/items/152408)
