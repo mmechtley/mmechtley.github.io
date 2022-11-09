@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Aromatic, organic, no longer associated with persistent environmental toxins?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mmechtley.github.io" # the base hostname & protocol for your site
-twitter_username: biphenyl
+mastodon_url: "mastodon.gamedev.place/@biphenyl"
 github_username: mmechtley
 ads_query: 
     text: "M. Mechtley @ ADS"
