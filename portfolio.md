@@ -11,8 +11,10 @@ One of two engineers on a small indie team (remote, headquarters in Mesa, Arizon
 A narrative 3d action game, published by Annapurna Interactive. Gameplay lead, UI lead, tools development.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kC-dNxex5Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Overland (2019)
-UI and localization finaling work for Overland, developed and published by Finji.
+## Finji (2019)
+Contract programmer working on various systems
+### Overland (2019)
+UI and localization finaling work for Overland. Menus, in-game UI, gamepad support, EFIGS, CJK and Arabic language support.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FWvAzyeKrA0" title="Overland - Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
