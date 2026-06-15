@@ -8,7 +8,7 @@ Outside of my scientific research, I have worked on projects in games and intera
 ## Dinogod (2020-Present)
 One of two engineers on a small indie team (remote, headquarters in Mesa, Arizona).
 
-### Bounty Star (2020-Present)
+### Bounty Star (2020-2025)
 A narrative 3d action game, published by Annapurna Interactive. Gameplay lead, UI lead, tools development.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kC-dNxex5Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
