@@ -2,8 +2,10 @@
 <iframe class="embed-iframe" src="{{ include.url }}" title="{{ include.title }}"
   {% if include.iframeargs == "youtube" %}
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+  {% elsif include.iframeargs == "vimeo" %}
+    webkitallowfullscreen mozallowfullscreen allowfullscreen
   {% else %}
     {{ include.iframeargs }}
   {% endif %}
-></iframe>
+>{{ include.content }}</iframe>
 </div>
