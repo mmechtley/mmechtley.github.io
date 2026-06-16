@@ -1,7 +1,7 @@
 <div class="embed" style="padding-top:{{ include.aspect | default:"100%" }}">
 <iframe class="embed-iframe" src="{{ include.url }}" title="{{ include.title }}"
   {% if include.iframeargs == "youtube" %}
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
   {% else %}
     {{ include.iframeargs }}
   {% endif %}
