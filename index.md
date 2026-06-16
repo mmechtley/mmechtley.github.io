@@ -5,7 +5,7 @@ title: false
 
 {% include figure.html url="/images/headshot.png" class="image-float-left" %}
 
-# Mira Mechtley, Ph.D., K.S.C.
+# Mira Mechtley, Ph.D.
 
 I currently work as principal engineer at [Dinogod](http://www.dinogod.com), most recently on [Bounty Star](https://store.steampowered.com/app/1497430/Bounty_Star/). I do almost all of my gamedev work in [Unity 3D](https://unity3d.com). I previously worked as a client/full-stack engineer at [Dire Wolf Digital](https://direwolfdigital.com), and as the iPhone specialist and resident science pedant at indie video game developer [Flashbang Studios](http://blurst.com/). I contributed significantly to Root and Eternal at Dire Wolf, and to Splume, Off-Road Velociraptor Safari, Jetpack Brontosaurus, Minotaur in a China Shop, Rebolt, Blush, Crane Wars, and Time Donkey at Flashbang. I also developed the iPhone boxing game Touch KO with my brother Adam Mechtley.
 

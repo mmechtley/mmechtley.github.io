@@ -10,7 +10,11 @@ One of two engineers on a small indie team (remote, headquarters in Mesa, Arizon
 
 ### Bounty Star (2020-2025)
 A narrative 3d action game, published by Annapurna Interactive. Gameplay lead, UI lead, tools development.
-<iframe width="640" height="360" src="https://www.youtube.com/embed/kC-dNxex5Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/K0HZzzgMpdY?si=9TXjuhqNxkbyBZKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Abyssal (2025)
+A short Pico-8 game inspired by Ecco the Dolphin and similar games from the early 1990s. I did all programming / art / design / sound & music.
+<iframe frameborder="0" src="https://itch.io/embed/4198286" width="552" height="167"><a href="https://biphenyl.itch.io/abyssal">Abyssal by Mira Mechtley</a></iframe>
 
 ## Finji (2019)
 Contract programmer working on various systems
