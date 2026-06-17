@@ -1,5 +1,5 @@
 <div class="embed" style="padding-top:{{ include.aspect | default:"100%" }}">
-<iframe class="embed-iframe" src="{{ include.url }}" title="{{ include.title }}"
+<iframe class="embed-iframe" src="{{ include.url }}" title="{{ include.title }}" frameborder=0
   {% if include.iframeargs == "youtube" %}
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
   {% elsif include.iframeargs == "vimeo" %}
