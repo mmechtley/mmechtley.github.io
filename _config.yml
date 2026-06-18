@@ -7,7 +7,7 @@
 
 # Site settings
 title: biphenyl.org
-email: mira@dinogod.com
+email: mira@cherem.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mmechtley.github.io" # the base hostname & protocol for your site
 mastodon_url: "mastodon.gamedev.place/@biphenyl"
