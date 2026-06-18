@@ -9,7 +9,7 @@ Outside of my scientific research, I have worked on projects in games and intera
 One of two engineers on a small indie team (remote, headquarters in Mesa, Arizona).
 
 ### Bounty Star (2020-2025)
-A narrative 3d action game, published by Annapurna Interactive. Gameplay lead, UI lead, tools development.
+A narrative 3d action game, published by Annapurna Interactive. Gameplay lead, UI lead, graphics lead, tools development.
 {% include embed.html url="https://www.youtube.com/embed/K0HZzzgMpdY?si=9TXjuhqNxkbyBZKw" title="Bounty Star Launch Trailer" aspect="56.25%" iframeargs="youtube" %}
 
 ## Abyssal (2025)
